@@ -1,0 +1,15 @@
+{
+  "name": "typescript-demo-01",
+  "version": "1.0.0",
+  "description": "TypeScript Demo 01",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && node src/*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed EL YONOUSI",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
